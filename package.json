@@ -1,11 +1,11 @@
 {
-  "name": "@maximeheckel/design-system",
-  "version": "1.0.1",
+  "name": "@cailborg/design-system",
+  "version": "1.0.0",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/types/index.d.ts",
   "sideEffects": false,
-  "repository": "https://github.com/MaximeHeckel/design-system",
+  "repository": "https://github.com/cailborg/design-system",
   "license": "MIT",
   "scripts": {
     "build": "node ./esbuild.build.js",
